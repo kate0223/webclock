@@ -58,7 +58,7 @@ table {
   width: 100%;
   height: 100vh;
   background-image: url("a.jpg");
-  background-size: auto;
+  background-size: contain;
   display: flex;
   align-items: center;
   justify-content: center;
