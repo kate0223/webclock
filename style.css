@@ -50,9 +50,6 @@ table {
 
 
 
-/* Google Fonts 読み込み */
-@import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap");
-
 /* 全体を囲うコンテナー */
 .container {
   width: 100%;
@@ -67,7 +64,7 @@ table {
 
 /* 時計の共通スタイル */
 .clock {
-  font-family: 'Share Tech Mono', monospace;
+  font-family: 'Heebo', sans-serif;
   color: #ffffff;
   line-height: 1.2;
   text-align: center;
