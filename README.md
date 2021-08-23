@@ -1,6 +1,5 @@
 # How To Use
-
-<a href ="https://kate0223.github.io/webclock/">Web Clock</a>
+Access the<a href ="https://kate0223.github.io/webclock/">Web Clock</a>.
 
 # Backgound Photos
 <a href ="https://unsplash.com/photos/jtsW--Z6bFw"><img src ="https://github.com/kate0223/webclock/blob/main/background_img.jpg"></a>
