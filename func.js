@@ -2,7 +2,7 @@ var i = 0;
 var images = [];
 var slideTime = 3000; // 3 seconds
 
-images[0] = 'https://i.imgur.com/pDfZoLF.png';
+images[0] = 'https://github.com/kate0223/webclock/blob/main/background_img.jpg?raw=true';
 images[1] = 'https://i.imgur.com/809dZ0J.png';
 images[2] = 'https://i.imgur.com/6r5PQq0.jpeg';
 
@@ -17,4 +17,3 @@ function changePicture() {
     setTimeout(changePicture, slideTime);
 }
 window.onload = changePicture;
-
