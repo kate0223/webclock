@@ -1,6 +1,6 @@
 var i = 0;
 var images = [];
-var slideTime = 3000; // 3 seconds
+var slideTime = 3600000; // 3 seconds
 
 images[0] = 'https://github.com/kate0223/webclock/blob/main/img/andre-benz-JnB8Gio4GZo-unsplash.jpg?raw=true';
 images[1] = 'https://github.com/kate0223/webclock/blob/main/img/andrew-neel-jtsW--Z6bFw-unsplash.jpg?raw=true';
