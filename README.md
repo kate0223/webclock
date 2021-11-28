@@ -1,5 +1,6 @@
 # How To Use
-Access the<a href ="https://kate0223.github.io/webclock/">Web Clock</a>.
+Access the<a href ="https://kate0223.github.io/webclock/">Web Clock</a>.<br>
+The background image changes every hour.
 
 # Backgound Photos
 ### Photographer Link
