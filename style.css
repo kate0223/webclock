@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+  background-size: cover;
 }
 ol, ul {
 	list-style: none;
@@ -54,8 +55,8 @@ table {
 .container {
   width: 100%;
   height: 100vh;
-  background-image: url("https://i.imgur.com/809dZ0J.png");
-  background-size: cover;
+  /* background-image: url("https://i.imgur.com/pDfZoLF.png"); */
+  /* background-size: cover; */
   display: flex;
   align-items: center;
   justify-content: center;
