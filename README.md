@@ -2,7 +2,6 @@
 Access the<a href ="https://kate0223.github.io/webclock/">Web Clock</a>.
 
 # Backgound Photos
-
 ### Photographer Link
 <a href ="https://unsplash.com/@andrewtneel">Andrew Neel</a>.<br>
 <a href ="https://unsplash.com/@olivier_twwli">Olivier Guillard</a>.<br>
