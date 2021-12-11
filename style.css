@@ -90,3 +90,12 @@ table {
     font-size: 20vw;
   }
 }
+
+.wcontainer {
+  height: 8rem;
+  width: 25rem;
+  background-color: rgba(255, 32, 32,0.0);
+  text-align: center;
+  padding-top: 12px;
+  border-radius: 16px;
+}
