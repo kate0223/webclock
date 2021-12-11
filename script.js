@@ -1,4 +1,3 @@
-
 // Declaring the variables
 let lon;
 let lat;
