@@ -9,16 +9,13 @@ const clock = () => {
   let hour = d.getHours();
   let min = d.getMinutes();
   let sec = d.getSeconds();
-
   month = month < 10 ? "0" + month : month;
   date = date < 10 ? "0" + date : date;
   hour = hour < 10 ? "0" + hour : hour;
   min = min < 10 ? "0" + min : min;
   sec = sec < 10 ? "0" + sec : sec;
-
   let today = `${year}.${month}.${date} ${day}`;
   let time = `${hour}:${min}:${sec}`;
-
   document.querySelector(".clock-date").innerText = today;
   document.querySelector(".clock-time").innerText = time;
 };
