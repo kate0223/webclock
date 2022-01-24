@@ -14,4 +14,4 @@ Tatsuya (2020). *CSSとJavaScriptでおしゃれなデジタル時計を実装�
 <a href ="https://unsplash.com/@heytowner">JOHN TOWER</a>.<br>
 <a href ="https://unsplash.com/@nicknice">Nick Nice</a>.<br>
 <a href ="https://unsplash.com/@trommelkopf">Steve Harvey</a>.<br>
-Photo on <a href="https://unsplash.com/s/photos/dark-leaf?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo on <a href="https://unsplash.com/">Unsplash</a>
