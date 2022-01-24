@@ -2,6 +2,10 @@
 Access the <a href ="https://kate0223.github.io/webclock/">Web Clock</a>.<br>
 The background image changes every hour.
 
+# Reference
+Tatsuya (2020). *CSSとJavaScriptでおしゃれなデジタル時計を実装する方法*. webdev tech.
+<br><a>https://web-dev.tech/front-end/javascript/digital-clock/</a>
+
 # Backgound Photos
 ### Photographer Link
 <a href ="https://unsplash.com/@andrewtneel">Andrew Neel</a>.<br>
